@@ -2,7 +2,7 @@
 title: "Clinical trainee performance on task-based AR/VR-guided surgical simulation is correlated with their 3D image spatial reasoning scores"
 collection: publications
 permalink: /publication/bootcamp2019
-excerpt: 'Describes a mehtology of assessment of training simulator-based AR/VR trajectory targeting task.'
+excerpt: 'Describes a methodology of assessment of training simulator-based AR/VR trajectory targeting task.'
 date: 2024-01-08
 venue: 'Healthcare Technology Letters'
 paperurl: 'https://doi.org/10.1049/htl2.12066'
