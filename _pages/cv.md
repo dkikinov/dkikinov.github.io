@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical and Computer Engineering, specializing in Biomedical Systems, University of Western Ontario, 2024 
+* B.ESc. in Software Engineering, University of Western Ontario, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Teaching Assistant: 2018 - 2023
+  * University of Western Ontario
+  * Duties included:	Proctored labs and exam sessions, graded assignments and answered student questions. For design assignments, provided design feedback.
+  * Relevant Courses: Software Design, Human-Computer Interaction, Software Requirements and Analysis, Software Design II (Software Capstone course)
+* Computer Programming Instructuctor: 2017 - 2018
+  * Real Programming 4 Kids
+  * Duties included: Assisted elementary and high school students in building video games with personal flairs. Taught coding practices, and mathematical uses for programming.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Technology: 
+  * Augmented Reality, Mixed Reality, Virtual Reality
+* Applications: 
+  * Unity 3D, Slicer3D, Blender3D
+* Development:
+  * C#, Java, Python
+* Language:
+  * English (Native)
+  * French, Russian (Conversational to Proficient)
 
 Publications
 ======
@@ -47,18 +43,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+
+Honours and Awards
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Western Graduate Research Scholarship 2018 - 2023
+* Mitacs Globalink Research Award 2019
+* Dean's Honor List 2016 - 2018
