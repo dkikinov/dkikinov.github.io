@@ -1,6 +1,6 @@
 ---
 title: "Thesis Study"
-excerpt: "Collection of applications developed for thesis study<br/><img src='/images/Thesis1.jpg'>"
+excerpt: "Collection of applications developed for thesis study<br/><img src='/images/Thesis1.png'>"
 collection: portfolio
 ---
 

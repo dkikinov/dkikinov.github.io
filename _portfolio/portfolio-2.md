@@ -1,6 +1,6 @@
 ---
 title: "NeuroAR Brain Tumour Case"
-excerpt: "Multi-modal visualization AR application but using a Brain Tumour Case<br/><img src='/mages/NeuroART1.jpg'>"
+excerpt: "Multi-modal visualization AR application but using a Brain Tumour Case<br/><img src='/images/NeuroART1.jpg'>"
 collection: portfolio
 ---
 
