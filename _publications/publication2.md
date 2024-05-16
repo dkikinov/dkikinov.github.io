@@ -1,7 +1,7 @@
 ---
 title: "Augmented reality visualization of MRI-guided presurgical planning."
 collection: publications
-permalink: /publication/publication2
+permalink: /publications/publication2
 excerpt: 'Further work on using subjects structural and functional connectivity in AR to evaluate damage from potenial trajectories.'
 date: 2020-01-01
 venue: 'IJCARS'

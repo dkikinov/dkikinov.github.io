@@ -1,7 +1,7 @@
 ---
-title: "Visualization of multimodal brain connectivity for neurosurgical planning using handheld device augmented reality"
+title: "Visualization of multimodal brain connectivity for neurosurgical planning using handheld device augmented reality."
 collection: publications
-permalink: /publication/publication1
+permalink: /publications/publication1
 excerpt: 'Created an AR mobile application that visualizes a subject's structural and functional neuroantomy, along with connectivities and allows for user interaction.'
 date: 2019-08-01
 venue: 'ICBES 2019 Proceedings'
