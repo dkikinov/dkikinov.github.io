@@ -1,6 +1,6 @@
 ---
 title: "NeuroAR"
-excerpt: "Multi-modal neurosurgical planning AR application dubbed "NeuroAR"<br/><img src='/images/NeuroAR1.jpg'>"
+excerpt: "Multi-modal neurosurgical planning AR application dubbed NeuroAR<br/><img src='/images/NeuroAR1.jpg'>"
 collection: portfolio
 ---
 
