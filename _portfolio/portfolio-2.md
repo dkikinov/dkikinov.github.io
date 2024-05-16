@@ -1,6 +1,6 @@
 ---
-title: "Thesis Study"
-excerpt: "Multiple versions of an EVD simulator model used for thesis study<br/><img src='/mages/NeuroART1.jpg'>"
+title: "NeuroAR Brain Tumour Case"
+excerpt: "Multi-modal visualization AR application but using a Brain Tumour Case<br/><img src='/mages/NeuroART1.jpg'>"
 collection: portfolio
 ---
 
