@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a recent PhD graduate looking to foray into the workforce and use the skills I've developed throughout the past few years.
+Hello, I am a PhD graduate, with XR experience looking to apply the skills I've developed throughout the past few years. This website, probably won't be maintained too often, but will probably be used to share some portfolio work.
 
- For the past six years, I have been involved in multiple research [projects](/portfolio/) utilizing XR technologies for neuroanatomical visualization and neurosurgical training, alongside my thesis study. This lead me to develop projects for visualization of brain anatomy, for intramuscular injection training, and for neurosurgical trajectory training. I’ve also simplified some of my projects and used them to demonstrate the strength of AR in education as part of volunteer work done with local elementary and high school students, such as displaying the parts of the brain; both with a healthy and brain tumour model. 
+ Throughout grad school, I have been involved in multiple research [projects](/portfolio/) utilizing XR technologies for neuroanatomical visualization and neurosurgical training, alongside my thesis study. This lead me to develop projects for visualization of brain anatomy, for intramuscular injection training, and for neurosurgical trajectory training. I’ve also simplified some of my projects and used them to demonstrate the strength of AR in education as part of volunteer work done with local elementary and high school students, such as displaying the parts of the brain; both with a healthy and brain tumour model. 
 
  My thesis "Evaluating User Performance in Augmented and Virtual Reality for Neurosurgical Targeting Tasks" focused on comparing user training experiences across several AR/VR platforms. I designed and developed near-identical projects, based on a custom module for the NeuroTouch simulator, which I deployed on Android, Microsoft HoloLens 2, HTC Vive and Meta Quest 2 systems. Then I ran a study to determine whether a single device or modality had an edge over another, and how they fared against the NeuroTouch. 
 
