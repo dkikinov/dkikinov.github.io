@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Denis Kikinov"
 title_separator          : "-"
 name                     : &name "Denis Kikinov"
-description              : &description "PhD Graduate"
+description              : &description "XR Developer"
 url                      : https://dkikinov.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "dkikinov/dkikinov.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Denis Kikinov"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Graduate with Experience in XR Applications"
+  bio              : "XR Software Developer"
   location         : #
-  employer         : "Western University"
+  employer         : #
   uri              : # URL
   email            : "deniskikinov@gmail.com" 
 
@@ -223,8 +223,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
-      share: true
+      comments: false
+      share: false
       related: true
   # _pages
   - scope:
@@ -239,18 +239,18 @@ defaults:
       type: teaching
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
       type: publications
     values:
       layout: single
-      author_profile: true
-      share: true
-      comments: true
+      author_profile: false
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -258,16 +258,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: true
-      share: true
+      author_profile: false
+      share: false
 
 
 # Sass/SCSS
